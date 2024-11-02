@@ -1,0 +1,16 @@
+<mod displayName="Better Consequence Discounts"
+unique="ak_better_consequence_discount"
+description="The discount consequence abilities absolutely suck, because they only affect purchases from your own empire, and you can STILL get those items cheaper from certain archetypes. This mod takes the measly 20% discount and makes it a whopping 70%. Also increases the interval multipliers for Green Keeper and Raid-B-Gone from 3 to 10."
+installerSystemVersion="1.0.1.2"
+hasCustomInstaller="true"
+isExperimental="false"
+dllsBuild="2.5.290">
+
+<component unique="ak_better_consequence_discount"
+displayName="Better Consequence Discounts"
+description="The discount consequence abilities absolutely suck, because they only affect purchases from your own empire, and you can STILL get those items cheaper from certain archetypes. This mod takes the measly 20% discount and makes it a whopping 70%. Also increases the interval multipliers for Green Keeper and Raid-B-Gone from 3 to 10."
+game="GalacticAdventures"
+defaultChecked="true">ak_better_consequence_discount.package</component>
+
+<prerequisite game="GalacticAdventures">ak_better_consequence_discount.package</prerequisite>
+</mod>

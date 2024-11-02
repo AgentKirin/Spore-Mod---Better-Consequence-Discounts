@@ -1,0 +1,7 @@
+float SuperPowerBioDisasterFrequencyMultiplier 10
+float SuperPowerEnergyMultiplier 1.5
+float SuperPowerHealthMultiplier 1.5
+float SuperPowerRaidFrequencyMultiplier 10
+float SuperPowerSpeedMultiplier 2
+float SuperPowerSpiceIncreaseMultiplier 1.5
+float SuperPowerToolCostMultiplier 0.3
